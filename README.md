@@ -6,10 +6,10 @@
 
 Hi, I'm Shafiq. I'm a web developer and an IT student at Universitas Brawijaya in Malang, Indonesia. I like building web apps with PHP, Laravel and MySQL, and I'm always looking for the next thing to learn.
 
-## Currently working on and learning
+## Now and next
 
 <div align="center">
-<img src="./assets/now.svg" alt="Currently working on a private PHP web application, plus my learning goals" width="100%" />
+<img src="./assets/now.svg" alt="Currently working on web application development, plus what is next for me" width="100%" />
 </div>
 
 ## Tech stack
