@@ -1,28 +1,22 @@
 <div align="center">
 
-# Shafiq Dzakwan Ananda
+<img src="./assets/terminal.svg" alt="Terminal: Shafiq Dzakwan Ananda, web developer exploring AI and machine learning" width="820" />
 
-IT student in Malang. Focused on web development, exploring AI and machine learning.
+<img src="./assets/wave.svg" alt="" width="820" />
 
 </div>
 
----
-
-```text
-shafiq@malang:~$ whoami
-Muhammad Shafiq Dzakwan Ananda (Mikosfy14)
-
-shafiq@malang:~$ cat education.txt
-Universitas Brawijaya
-
-shafiq@malang:~$ cat now.txt
-focus     -> web development with PHP, Laravel, and MySQL
-exploring -> AI and machine learning
-```
+IT student at Universitas Brawijaya, based in Malang. Focused on web development, exploring AI and machine learning.
 
 ## Tech stack
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,tailwind,bootstrap,vite,java,git&theme=dark" alt="tech stack" />
+
+<img src="./assets/wave.svg" alt="" width="820" />
+
+</div>
 
 ## Featured project
 
