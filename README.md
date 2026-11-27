@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mikosfy14/Mikosfy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shafiq Dzakwan Ananda
 
-Here are some ideas to get you started:
+IT student in Malang. Focused on web development, exploring AI and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```text
+shafiq@malang:~$ whoami
+Muhammad Shafiq Dzakwan Ananda (Mikosfy14)
+
+shafiq@malang:~$ cat education.txt
+Universitas Brawijaya
+
+shafiq@malang:~$ cat now.txt
+focus     -> web development with PHP, Laravel, and MySQL
+exploring -> AI and machine learning
+```
+
+## Tech stack
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,tailwind,bootstrap,vite,java,git&theme=dark" alt="tech stack" />
+
+## Featured project
+
+website-k3 is a web app for finding and managing building evacuation routes (K3 safety) for a campus building at Universitas Brawijaya. Built with Laravel 12, Blade, Tailwind CSS, and MySQL, with an admin panel, multi-image upload, and rate-limited login.
+
+Repo: https://github.com/Mikosfy14/website-k3
+
+Live demo: https://vokasievac-k3.infinityfree.io/
