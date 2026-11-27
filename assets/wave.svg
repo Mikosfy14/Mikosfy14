@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="60" viewBox="0 0 820 60" role="img" aria-label="">
-<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="820" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="0.5" stop-color="#7ee787"/><stop offset="1" stop-color="#d2a8ff"/></linearGradient></defs>
-<path d="M0 30 Q51.25 8 102.5 30 T205.0 30 T307.5 30 T410.0 30 T512.5 30 T615.0 30 T717.5 30 T820.0 30 T922.5 30 T1025.0 30 T1127.5 30 T1230.0 30 T1332.5 30 T1435.0 30 T1537.5 30 T1640.0 30" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" from="0 0" to="-205 0" dur="4s" repeatCount="indefinite"/></path>
-<path d="M0 30 Q51.25 18 102.5 30 T205.0 30 T307.5 30 T410.0 30 T512.5 30 T615.0 30 T717.5 30 T820.0 30 T922.5 30 T1025.0 30 T1127.5 30 T1230.0 30 T1332.5 30 T1435.0 30 T1537.5 30 T1640.0 30" fill="none" stroke="url(#g)" stroke-width="1.5" stroke-linecap="round" opacity="0.5"><animateTransform attributeName="transform" type="translate" from="-205 0" to="0 0" dur="6s" repeatCount="indefinite"/></path>
-</svg>
